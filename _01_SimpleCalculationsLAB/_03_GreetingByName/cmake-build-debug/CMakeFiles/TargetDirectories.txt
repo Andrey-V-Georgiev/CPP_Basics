@@ -1,0 +1,3 @@
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_03_GreetingByName/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_03_GreetingByName/cmake-build-debug/CMakeFiles/_03_GreetingByName.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_03_GreetingByName/cmake-build-debug/CMakeFiles/edit_cache.dir
