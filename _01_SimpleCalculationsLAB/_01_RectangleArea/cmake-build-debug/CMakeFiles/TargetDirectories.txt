@@ -1,0 +1,3 @@
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_01_RectangleArea/cmake-build-debug/CMakeFiles/_01_RectangleArea.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_01_RectangleArea/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_01_RectangleArea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
