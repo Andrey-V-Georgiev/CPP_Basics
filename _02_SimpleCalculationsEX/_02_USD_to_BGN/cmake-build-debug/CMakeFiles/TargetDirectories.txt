@@ -1,0 +1,3 @@
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_02_USD_to_BGN/cmake-build-debug/CMakeFiles/_02_USD_to_BGN.dir
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_02_USD_to_BGN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_02_USD_to_BGN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

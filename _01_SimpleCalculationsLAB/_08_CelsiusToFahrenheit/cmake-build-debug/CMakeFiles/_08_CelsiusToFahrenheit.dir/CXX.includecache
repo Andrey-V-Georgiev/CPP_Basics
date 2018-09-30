@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_08_CelsiusToFahrenheit/main.cpp
+iostream
+-
+string
+-
+

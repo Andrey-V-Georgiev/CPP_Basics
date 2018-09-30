@@ -1,0 +1,3 @@
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_08_CelsiusToFahrenheit/cmake-build-debug/CMakeFiles/_08_CelsiusToFahrenheit.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_08_CelsiusToFahrenheit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CPP_Basics/_01_SimpleCalculationsLAB/_08_CelsiusToFahrenheit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

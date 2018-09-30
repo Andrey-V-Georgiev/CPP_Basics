@@ -1,0 +1,3 @@
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_04_TailoringWorkshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_04_TailoringWorkshop/cmake-build-debug/CMakeFiles/_04_TailoringWorkshop.dir
+C:/Projects/CPP_Basics/_02_SimpleCalculationsEX/_04_TailoringWorkshop/cmake-build-debug/CMakeFiles/edit_cache.dir
