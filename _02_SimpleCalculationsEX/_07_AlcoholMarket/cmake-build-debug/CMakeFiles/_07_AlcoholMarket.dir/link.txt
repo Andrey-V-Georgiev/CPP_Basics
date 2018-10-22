@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_07_AlcoholMarket.dir/main.cpp.o  -o _07_AlcoholMarket 
