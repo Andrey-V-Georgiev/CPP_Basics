@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_02_EvenOrOdd.dir/main.cpp.o  -o _02_EvenOrOdd 
