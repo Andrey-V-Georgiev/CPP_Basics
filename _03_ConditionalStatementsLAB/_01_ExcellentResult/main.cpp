@@ -1,8 +1,9 @@
-#include <iostream>
+﻿#include <iostream>
 
 int main() {
 
-    double input; std::cin >> input;
+    double input;
+    std::cin >> input;
 
     if(input >= 5.50 && input <= 6.00) {
         std::cout << "Excellent!" << "\n";
