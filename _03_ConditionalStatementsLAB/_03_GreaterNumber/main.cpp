@@ -4,6 +4,7 @@ int main() {
 
     int firstNum;
     std::cin >> firstNum;
+
     int secondNum;
     std::cin >> secondNum;
 
