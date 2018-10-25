@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_04_NumberToText.dir/main.cpp.o  -o _04_NumberToText 
