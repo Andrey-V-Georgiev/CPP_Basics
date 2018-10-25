@@ -2,7 +2,8 @@
 
 int main() {
 
-    int input; std::cin >> input;
+    int input;
+    std::cin >> input;
 
     if(input % 2 == 0) {
         std::cout<<"even"<<"\n";
