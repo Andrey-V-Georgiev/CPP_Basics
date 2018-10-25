@@ -7,7 +7,7 @@ int main() {
     std::string userInput;
     std::cin >> userInput;
 
-    if (userInput.compare(rightPassword) == 0) {
+    if (userInput == rightPassword) {
         std::cout << "Welcome" << std::endl;
     } else {
         std::cout << "Wrong password!" << std::endl;
