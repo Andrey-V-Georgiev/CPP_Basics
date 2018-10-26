@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/CPP_Basics/_03_ConditionalStatementsLAB/_07_AreaOfFigures/main.cpp
+iostream
+-
+string
+-
+
