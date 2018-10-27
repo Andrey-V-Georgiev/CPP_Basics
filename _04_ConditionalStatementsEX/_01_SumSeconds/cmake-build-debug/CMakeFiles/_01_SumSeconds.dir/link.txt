@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_01_SumSeconds.dir/main.cpp.o  -o _01_SumSeconds 
