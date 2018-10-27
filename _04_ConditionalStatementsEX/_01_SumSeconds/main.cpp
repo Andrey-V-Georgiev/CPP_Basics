@@ -16,7 +16,7 @@ int main() {
 
     char str[1024];
     sprintf(str, "%d:%02d",minutesOutput, secondsOutput);
-    std::cout << str;
+    std::cout << str << std::endl;
 
     return 0;
 }
