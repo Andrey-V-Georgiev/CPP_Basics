@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_02_BonusScore.dir/main.cpp.o  -o _02_BonusScore 
