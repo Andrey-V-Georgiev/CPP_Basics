@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_09_WorldSwimmingRecord.dir/main.cpp.o  -o _09_WorldSwimmingRecord 
