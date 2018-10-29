@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_08_Journey.dir/main.cpp.o  -o _08_Journey 

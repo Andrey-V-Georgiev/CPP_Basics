@@ -1,0 +1,3 @@
+/home/andrey/Projects/CPP_Basics/_06_NestedConditionalStatementsEX/_08_Journey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/Projects/CPP_Basics/_06_NestedConditionalStatementsEX/_08_Journey/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Projects/CPP_Basics/_06_NestedConditionalStatementsEX/_08_Journey/cmake-build-debug/CMakeFiles/_08_Journey.dir
