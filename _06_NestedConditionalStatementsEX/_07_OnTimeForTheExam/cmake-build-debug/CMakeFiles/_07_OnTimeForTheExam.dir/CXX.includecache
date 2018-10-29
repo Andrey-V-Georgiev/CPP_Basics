@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/CPP_Basics/_06_NestedConditionalStatementsEX/_07_OnTimeForTheExam/main.cpp
+iostream
+-
+
