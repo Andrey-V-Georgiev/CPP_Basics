@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/CPP_Basics/_08_WhileLoopEX/_04_Vacation/main.cpp
+iostream
+-
+string
+-
+limits
+-
+

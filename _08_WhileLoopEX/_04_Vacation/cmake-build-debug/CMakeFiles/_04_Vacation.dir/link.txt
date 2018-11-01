@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_04_Vacation.dir/main.cpp.o  -o _04_Vacation 
