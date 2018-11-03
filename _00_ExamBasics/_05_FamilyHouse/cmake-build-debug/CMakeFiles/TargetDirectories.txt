@@ -1,0 +1,3 @@
+/home/andrey/Projects/CPP_Basics/_00_ExamBasics/_05_FamilyHouse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/Projects/CPP_Basics/_00_ExamBasics/_05_FamilyHouse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Projects/CPP_Basics/_00_ExamBasics/_05_FamilyHouse/cmake-build-debug/CMakeFiles/_05_FamilyHouse.dir
