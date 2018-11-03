@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_02_MaidenParty.dir/main.cpp.o  -o _02_MaidenParty 
