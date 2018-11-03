@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <math.h>
 
 int main() {
@@ -17,8 +17,9 @@ int main() {
     double dancingArea = roomArea * 0.19;
     double freeSpace = roomArea - barArea - dancingArea;
     double guestsCapacity = freeSpace / 3.2;
+    double guestsCapacityRounded = ceil(guestsCapacity);
 
-    std::cout << ceil(guestsCapacity) << std::endl;
+    std::cout << guestsCapacityRounded << std::endl;
 
     return 0;
 }
